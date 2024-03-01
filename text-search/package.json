@@ -1,0 +1,15 @@
+{
+  "name": "text-search",
+  "version": "1.0.0",
+  "description": "- Create a Text Index - Search for an Exact Phrase - Exclude a Term - Sort the Results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0"
+  }
+}
